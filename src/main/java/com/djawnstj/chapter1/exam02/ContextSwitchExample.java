@@ -1,4 +1,4 @@
-package com.djawnstj.chapter1.exam2;
+package com.djawnstj.chapter1.exam02;
 
 public class ContextSwitchExample {
     public static void main(String[] args) {

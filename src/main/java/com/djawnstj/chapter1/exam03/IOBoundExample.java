@@ -1,4 +1,4 @@
-package com.djawnstj.chapter1.exam3;
+package com.djawnstj.chapter1.exam03;
 
 import java.io.IOException;
 import java.nio.file.Files;
